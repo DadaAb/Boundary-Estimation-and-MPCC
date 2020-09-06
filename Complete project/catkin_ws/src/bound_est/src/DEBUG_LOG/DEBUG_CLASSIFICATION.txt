@@ -1,0 +1,472 @@
+Log message for Classification log data at Sat Sep  5 17:21:37 2020
+-----------------------------------
+-----------------------------------
+Cone list size to be sorted = 30
+--------
+Printout of list states
+Left list size: 1, Right list size: 0
+--------
+Printout of list states
+Left list size: 1, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 12
+--------
+Printout of list states
+Left list size: 13, Right list size: 12
+--------
+Printout of list states
+Left list size: 13, Right list size: 13
+--------
+Printout of list states
+Left list size: 14, Right list size: 13
+--------
+Printout of list states
+Left list size: 14, Right list size: 14
+--------
+Printout of list states
+Left list size: 15, Right list size: 14
+--------
+Printout of list states
+Left list size: 15, Right list size: 15
+--------
+///////////////////////////////////
+///////////////////////////////////
+
+Log message for Classification log data at Sat Sep  5 17:21:41 2020
+-----------------------------------
+-----------------------------------
+Cone list size to be sorted = 30
+--------
+Printout of list states
+Left list size: 1, Right list size: 0
+--------
+Printout of list states
+Left list size: 1, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 12
+--------
+Printout of list states
+Left list size: 13, Right list size: 12
+--------
+Printout of list states
+Left list size: 13, Right list size: 13
+--------
+Printout of list states
+Left list size: 14, Right list size: 13
+--------
+Printout of list states
+Left list size: 14, Right list size: 14
+--------
+Printout of list states
+Left list size: 15, Right list size: 14
+--------
+Printout of list states
+Left list size: 15, Right list size: 15
+--------
+///////////////////////////////////
+///////////////////////////////////
+
+Log message for Classification log data at Sat Sep  5 17:21:41 2020
+-----------------------------------
+-----------------------------------
+Cone list size to be sorted = 30
+--------
+Printout of list states
+Left list size: 1, Right list size: 0
+--------
+Printout of list states
+Left list size: 1, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 12
+--------
+Printout of list states
+Left list size: 13, Right list size: 12
+--------
+Printout of list states
+Left list size: 13, Right list size: 13
+--------
+Printout of list states
+Left list size: 14, Right list size: 13
+--------
+Printout of list states
+Left list size: 14, Right list size: 14
+--------
+Printout of list states
+Left list size: 15, Right list size: 14
+--------
+Printout of list states
+Left list size: 15, Right list size: 15
+--------
+///////////////////////////////////
+///////////////////////////////////
+
+Log message for Classification log data at Sat Sep  5 17:21:41 2020
+-----------------------------------
+-----------------------------------
+Cone list size to be sorted = 30
+--------
+Printout of list states
+Left list size: 1, Right list size: 0
+--------
+Printout of list states
+Left list size: 1, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 12
+--------
+Printout of list states
+Left list size: 13, Right list size: 12
+--------
+Printout of list states
+Left list size: 13, Right list size: 13
+--------
+Printout of list states
+Left list size: 14, Right list size: 13
+--------
+Printout of list states
+Left list size: 14, Right list size: 14
+--------
+Printout of list states
+Left list size: 15, Right list size: 14
+--------
+Printout of list states
+Left list size: 15, Right list size: 15
+--------
+///////////////////////////////////
+///////////////////////////////////
+
+Log message for Classification log data at Sat Sep  5 17:21:41 2020
+-----------------------------------
+-----------------------------------
+Cone list size to be sorted = 24
+--------
+Printout of list states
+Left list size: 1, Right list size: 0
+--------
+Printout of list states
+Left list size: 1, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 1
+--------
+Printout of list states
+Left list size: 2, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 2
+--------
+Printout of list states
+Left list size: 3, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 3
+--------
+Printout of list states
+Left list size: 4, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 4
+--------
+Printout of list states
+Left list size: 5, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 5
+--------
+Printout of list states
+Left list size: 6, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 6
+--------
+Printout of list states
+Left list size: 7, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 7
+--------
+Printout of list states
+Left list size: 8, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 8
+--------
+Printout of list states
+Left list size: 9, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 9
+--------
+Printout of list states
+Left list size: 10, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 10
+--------
+Printout of list states
+Left list size: 11, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 11
+--------
+Printout of list states
+Left list size: 12, Right list size: 12
+--------
+///////////////////////////////////
+///////////////////////////////////
+
