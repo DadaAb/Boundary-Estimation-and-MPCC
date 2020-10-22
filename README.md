@@ -11,7 +11,7 @@ In order to be able to run the code, the following need to be installed:
 
 ### Running
 
-Before running the code, all absolute paths involved in the ROS package need to be renamed to the user's ones. This can simply be done by running `./update_homedir nameOfPreviousUser`, which replaces the name of the user who pushed the most recent commit by the current user's name. (The most recent commit of this version is done by *dm501*.)
+Before running the code, all absolute paths involved in the ROS package need to be renamed to the user's ones. This can simply be done by running `./update_homedir nameOfPreviousUser`, which replaces the name of the user who pushed the most recent commit by the current user's name. (The most recent commit of this version is done by *wouter*.)
 
 
 
